@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dani\\Desktop\\Data Structures with explanation\\LinkList\\MiniBet\\MiniBet\\MiniBet.csproj": {}
+    "C:\\Users\\Dani\\Desktop\\MiniBet\\MiniBet\\MiniBet\\MiniBet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dani\\Desktop\\Data Structures with explanation\\LinkList\\MiniBet\\MiniBet\\MiniBet.csproj": {
+    "C:\\Users\\Dani\\Desktop\\MiniBet\\MiniBet\\MiniBet\\MiniBet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\Data Structures with explanation\\LinkList\\MiniBet\\MiniBet\\MiniBet.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\Desktop\\MiniBet\\MiniBet\\MiniBet\\MiniBet.csproj",
         "projectName": "MiniBet",
-        "projectPath": "C:\\Users\\Dani\\Desktop\\Data Structures with explanation\\LinkList\\MiniBet\\MiniBet\\MiniBet.csproj",
+        "projectPath": "C:\\Users\\Dani\\Desktop\\MiniBet\\MiniBet\\MiniBet\\MiniBet.csproj",
         "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dani\\Desktop\\Data Structures with explanation\\LinkList\\MiniBet\\MiniBet\\obj\\",
+        "outputPath": "C:\\Users\\Dani\\Desktop\\MiniBet\\MiniBet\\MiniBet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
